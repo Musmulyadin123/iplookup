@@ -1,6 +1,6 @@
 # Simple-IP-Lookup
 
-This Python3 Script simply write out info about ip that you give in to terminal
+This Python3 Script simply write out info about ip that you give in to!
 
 ## Lookup Features
 ```
